@@ -16,4 +16,4 @@ jobs:
           filename: metrics.plugin.yearly-progress.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_yearly-contributions: yes
+          plugin_isocalendar: yes
