@@ -20,12 +20,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</p>
+
 ---
 
 ### <img src="./assets/Developer.gif" width="45" /> About Me:
 
 - 🎓 Graduate Software Engineering student at **ASU**
-- 🎓 Bachelor's Computer Science from **JSS Science and Technology Unviersity**, Class of 2023
+- 🎓 Bachelor's Computer Science from **JSS Science and Technology University**, Class of 2023
 - 🚀 Exploring conversational AI and personalized interfaces
 - ⚡️ I get excited about anything on wheels and motorsports!
 
@@ -52,6 +56,7 @@
 ---
 
 ### 📊 My GitHub Stats:
+
 ![Dheemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdheemanth&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdheemanth&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
@@ -70,6 +75,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamdheemanth/iamdheemanth/main/metrics.plugin.yearly-progress.svg" alt="Year Progress" />
 </p>
-
-
----
